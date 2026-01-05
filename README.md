@@ -1,5 +1,10 @@
 ![Hello-aldi](img/github-header-banner.png)
 
+### 🚀 A Little About Me
+
+A tech enthusiast and **Web Developer** on a journey to master modern web technologies 🌐. Currently exploring the world of **Frontend Development** 🎨 and turning creative ideas into interactive reality ✨.
+
+---
 - 🌱 I’m currently learning next.js
 
 
