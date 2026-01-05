@@ -1,11 +1,18 @@
 ![Hello-aldi](img/github-header-banner.png)
 
+- 🌱 I’m currently learning next.js
+
 
 ##### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
+##### Tools
+
+[![My Tools](https://skillicons.dev/icons?i=vscode,,)](https://skillicons.dev)
+
 ##### Connect with me
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Xwind_6)
 
 ##### Play games with me
