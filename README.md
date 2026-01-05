@@ -1,24 +1,28 @@
-![Hello-aldi](img/github-header-banner.png)
+![Hello-aldi](img/github-header-banner%20(2).png)
 
 ### 🚀 A Little About Me
 
 A tech enthusiast and **Web Developer** on a journey to master modern web technologies 🌐. Currently exploring the world of **Frontend Development** 🎨 and turning creative ideas into interactive reality ✨.
-
----
 - 🌱 I’m currently learning next.js
 
+---
 
-##### Skills
+<br >
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+### 🛠 My Skills & Tools
 
-##### Tools
+##### Languages
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,)](https://skillicons.dev)
 
-[![My Tools](https://skillicons.dev/icons?i=vscode,,)](https://skillicons.dev)
+##### Development Tools
+[![My Tools](https://skillicons.dev/icons?i=vscode,github,)](https://skillicons.dev)
+<br>
 
 ##### Connect with me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Xwind_6)
+
+<br>
 
 ##### Play games with me
 <picture>
