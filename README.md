@@ -8,10 +8,14 @@
 ##### Connect with me
 ![https:/instagram.com/Xwind_6](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
-##### My Github Stats
-![Aldi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aldi)
+##### Play games with me
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hello-aldi/Hello-aldi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hello-aldi/Hello-aldi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hello-aldi/Hello-aldi/output/pacman-contribution-graph.svg">
+</picture>
 
-
+###
 <!--
 **Hello-aldi/Hello-aldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
