@@ -6,7 +6,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 ##### Connect with me
-![https:/instagram.com/Xwind_6](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![https://instagram.com/Xwind_6](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 ##### Play games with me
 <picture>
